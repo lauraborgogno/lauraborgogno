@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... programming works
 - 📫 How to reach me ... https://www.behance.net/lauraborgogno
 - 😄 Pronouns: ... lau
-- ⚡ Fun fact: ... i love enjoy works I do with memes too
+- ⚡ Fun fact: ... i love take it easy
 
 <!---
 lauraborgogno/lauraborgogno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
