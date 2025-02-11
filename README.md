@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lauraborgogno
-- 👀 I’m interested in ... digital app designs
+- 👀 I’m interested in ... programming jobs
 - 🌱 I’m currently learning ... full stack web developer
-- 💞️ I’m looking to collaborate on ... programming jobs
+- 💞️ I’m looking to collaborate on ... digital app designs
 - 📫 How to reach me ... https://www.behance.net/lauraborgogno
 - 😄 Pronouns: ... lau
 - ⚡ Fun fact: ... i love take it easy
